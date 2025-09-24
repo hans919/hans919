@@ -126,13 +126,13 @@
 <div align="center">
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HANS&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jottyyyy&layout=compact&langs_count=8&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HANS&layout=compact&langs_count=8&theme=radical"/>
 
 </div>
 
 <div align="center">
   
-![](https://nirzak-streak-stats.vercel.app/?user=Jottyyyy&theme=radical&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HANS&theme=radical&hide_border=false)<br/>
 
 </div>
 
