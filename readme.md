@@ -24,10 +24,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-gencianeo-14a597290)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jshgencianeo11@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/fushtoji)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/fush_toj)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanschristiandelossantos1@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/hans.christian.876321)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
 
@@ -71,7 +70,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
@@ -121,28 +120,7 @@
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HANS&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HANS&layout=compact&langs_count=8&theme=radical"/>
-
-</div>
-
-<div align="center">
-  
-![](https://nirzak-streak-stats.vercel.app/?user=HANS&theme=radical&hide_border=false)<br/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jottyyyy&theme=react-dark&hide_border=true" width="100%"/>
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -191,14 +169,7 @@
 
 ## 📚 Latest Blog Posts
 
-<div align="center">
 
-- [Building Scalable IoT Systems with MQTT and Node.js](https://dev.to/jottyyyy)
-- [React Performance Optimization: A Complete Guide](https://dev.to/jottyyyy)
-- [From Arduino to Production: IoT Development Journey](https://dev.to/jottyyyy)
-- [Modern Authentication Patterns in Full Stack Apps](https://dev.to/jottyyyy)
-
-</div>
 
 ---
 
@@ -237,9 +208,9 @@
 - 🔬 **Research** - IoT & emerging technologies
 
 ### 📧 **Get in Touch:**
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jshgencianeo11@gmail.com)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanschristiandelossantos1@gmail.com)
 [![Schedule_Call](https://img.shields.io/badge/Schedule_Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](#)
-[![LinkedIn_Message](https://img.shields.io/badge/LinkedIn_Message-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-gencianeo-14a597290)
+
 
 </div>
 
