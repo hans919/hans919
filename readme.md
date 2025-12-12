@@ -122,20 +122,6 @@
 
 
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🏠 **Smart Home Hub** | IoT-based home automation system with mobile app | React Native, Node.js, Arduino, MQTT |
-| 🌱 **AgriTech Monitor** | Agricultural monitoring system with sensors | Python, FastAPI, Raspberry Pi, PostgreSQL |
-| 💼 **TaskFlow Pro** | Project management web application | Next.js, TypeScript, Supabase, Tailwind |
-| 🤖 **AI Chat Assistant** | Intelligent chatbot with NLP capabilities | Python, OpenAI API, React, WebSocket |
-
-</div>
-
----
 
 ## 🎯 What I Do
 
@@ -159,7 +145,6 @@
 
 **Frontend Development** ████████████████████ 95%  
 **Backend Development** ███████████████████░ 90%  
-**IoT & Hardware** ██████████████████░░ 85%  
 **Cloud Platforms** ████████████████░░░░ 80%  
 
 
@@ -173,26 +158,6 @@
 
 ---
 
-## 🚀 Current Focus & Goals
-
-<div align="center">
-
-### 🔭 **2024 Objectives**
-- 🎯 Launch **3 IoT SaaS products**
-- 📚 Contribute to **10 open-source projects**
-- 🎓 Complete **Advanced Kubernetes certification**
-- 📝 Write **12 technical blog posts**
-- 🤝 Mentor **5 junior developers**
-- 🌍 Speak at **2 tech conferences**
-
-### 🌱 **Currently Learning**
-- Advanced Kubernetes & Service Mesh
-- Rust programming language
-- Web3 & Blockchain development
-- Advanced AI/ML algorithms
-- Quantum computing basics
-
-</div>
 
 ---
 
