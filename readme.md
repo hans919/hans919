@@ -152,7 +152,7 @@
 
 ---
 
-## 📚 Latest Blog Posts
+
 
 
 
@@ -168,8 +168,6 @@
 ### 💼 **Available for:**
 - 🚀 **Freelance Projects** - Full-stack & IoT development
 - 🤝 **Consulting** - Technical architecture & strategy
-- 🎤 **Speaking** - Tech conferences & workshops
-- 👥 **Mentoring** - Junior developers & career guidance
 - 🔬 **Research** - IoT & emerging technologies
 
 ### 📧 **Get in Touch:**
